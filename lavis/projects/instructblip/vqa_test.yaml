@@ -40,7 +40,7 @@ run:
 
   evaluate: True
   # train_splits: ["train"]
-  test_splits: ["test2015"]
+  test_splits: ["test"]
 
   # distribution-specific
   device: "cuda"
